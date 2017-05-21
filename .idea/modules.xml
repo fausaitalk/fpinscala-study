@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fpinscala-examples/fpinscala-examples.iml" filepath="$PROJECT_DIR$/fpinscala-examples/fpinscala-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fpinscala-exercises/fpinscala-exercises.iml" filepath="$PROJECT_DIR$/fpinscala-exercises/fpinscala-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fpinscala-study.iml" filepath="$PROJECT_DIR$/fpinscala-study.iml" />
+    </modules>
+  </component>
+</project>
