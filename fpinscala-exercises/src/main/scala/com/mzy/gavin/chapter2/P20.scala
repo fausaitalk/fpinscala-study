@@ -19,7 +19,6 @@ object P20 {
     if (str.hashCode() > ss.hashCode()) true
     else false
   }
-
   def main(args: Array[String]) {
 
     val as = Array("hadoop","scala", "java", "ke")

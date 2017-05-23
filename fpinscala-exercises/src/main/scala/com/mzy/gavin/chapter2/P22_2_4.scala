@@ -7,7 +7,6 @@ object P22_2_4 {
   def main(args: Array[String]) {
     //TODO 怎样调用
   }
-
   def uncurry[A, B, C](f: A => B => C): (A, B) => C = {
     (a, b) => f(a)(b)
   }
